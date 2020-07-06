@@ -1,0 +1,536 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /*header start*/
+    .logo img{
+        width:70%; 
+    }
+    .navbar-toggler {
+    font-size: 11px;
+    line-height: 2;
+    }
+    .menu ul li a{
+       text-align: right;
+        font-size: 12px;
+        padding: 0px 5px !important;
+    }
+    .menu ul li a:hover{
+         margin-left: 200px;
+    }
+    .dropdown-menu{
+        left: 100px;
+    }
+    .btn-custom{
+      margin-left: 200px;
+    }
+    .search_dd{
+    left: 42px;
+    min-width: 217px;
+    padding: 5px 5px;
+    }
+    /*header end*/
+    /*banner start*/
+    .b_content h1 {
+    font-size: 16px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.scroll p{
+    font-size: 13px;
+    }
+    /*banner end*/
+     /*kid1 start*/
+     .kid1 {
+    padding: 40px 0px;
+}
+.c_h1 {
+    font-size: 19px;
+    margin-bottom: 21px;
+}
+.c_hr {
+    width: 181px;
+    border-bottom: 3px dashed #fff;
+    margin-bottom: 30px;
+}
+h2 {
+    font-size: 18px;
+}
+.k_text hr {
+    width: 120px;
+}
+.k_text a img {
+    width: 120px;
+}
+.k_img {
+    margin-top: 25px;
+}
+   /*kid1 end*/
+   /*kid2 start*/
+   .kid2{
+       padding: 25px 0;
+   }
+
+   .circle_text p{
+    font-size: 15px;
+}
+   /*kid2 end*/
+   /*courses start*/
+.card{
+    margin-top: 20px;
+}
+/*courses end*/
+      /*moments start*/
+   .moments{
+       padding: 40px 0;
+   }
+   .moments_pic{
+        margin-top: 40px;
+}
+.view{
+    margin-top: 30px;
+}
+.view img{
+    width: 130px;
+}
+   /*moments end*/
+       
+/*twitter start*/
+.twitter {
+    padding: 60px 0px;
+}
+.twitter_part1 {
+    margin-bottom: 50px;
+}
+.media {
+    margin-top: 20px;
+}
+.media img {
+    width: 122px;
+}
+.media-body h4 {
+    font-size: 18px;
+}
+.media-body h5 {
+    font-size: 11px;
+}
+.media_hr {
+    width: 150px;
+}
+.media-body p {
+    font-size: 10px;
+}
+.social_icons {
+    font-size: 11px;
+}
+.follow p {
+    font-size: 12px;
+}
+.follow_hr {
+    width: 64px;
+
+}
+.follow_hr4 {
+    width: 64px;
+
+}
+/*twitter end*/
+  /*did start*/
+.did{
+    padding: 50px 0;
+}
+.did_h1{
+  font-size: 30px;
+}
+.did_main{
+    margin-top: 30px;
+}
+.did_contents h1{
+    font-size: 25px;
+}
+.did_contents p{
+    font-size: 18px;
+}
+/*did end*/
+/*timeline start*/
+.c_h1 {
+    font-size: 17px;
+}
+.c_hr {
+    width: 132px;
+}
+.time_btn, .timeline2 {
+     margin-top: 0px; 
+}
+.time_text{
+         margin-top: 40px;
+}
+.time_h3 {
+    font-size: 13px;
+}
+.recent_hr {
+    width: 103px;
+}
+/*timeline end*/
+/*timeline end*/
+.news_main{
+    margin-top: 320px;
+}
+.letter, .insta {
+    margin-top: 10px;
+}
+.contact{
+    margin-top: 25px;
+} 
+/*newsletter end*/
+/*footer start */
+.menu2{
+    float: left !important;
+}
+.menu1_item {
+    font-size: 9px;
+}
+.menu2_h1 {
+    font-size: 10px;
+}
+
+/*footer end*/
+} 
+
+ /* Small devices (landscape phones, 576px and up) */ 
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /*header start*/
+     .menu ul li a{
+        text-align: right;
+        font-size: 14px;
+        padding: 0px 7px !important;
+    }
+    .menu ul li a:hover{
+    margin-left: 427px;
+    }
+    .dropdown-menu{
+        left: 315px;
+    }
+    .btn-custom{
+        margin-left: 420px;
+    }
+    .search_dd{
+        left: 263px;
+    }
+    /*header end*/
+    /*banner start*/
+   .b_content h1 {
+    font-size: 36px;
+    padding-top: 150px;
+    padding-bottom: 140px;
+}
+    /*banner end*/
+     /*kid1 start*/
+     .kid1 {
+    padding: 60px 0px;
+    }
+     .k_text a img{
+         width: 130px;
+     }
+     .k_img{
+       margin-top: 30px;
+   }  
+   /*kid1 end*/
+   /*kid2 start*/
+   .kid2{
+       padding: 80px 0;
+   }
+   .c_h1{
+       font-size: 26px;
+   }
+   .circle_text p{
+    font-size: 18px;
+
+}
+
+   /*kid2 end*/
+   /*courses start*/
+.card{
+    margin-top: 20px;
+}
+/*courses end*/
+      /*moments start*/
+   .moments{
+       padding: 60px 0;
+   }
+   .moments_pic{
+        margin-top: 50px;
+}
+.view{
+    margin-top: 40px;
+}
+.view img{
+    width: 150px;
+}
+   /*moments end*/
+   
+ /*twitter start*/
+ .twitter {
+    padding: 80px 0px;
+}
+ .media{
+     margin-top: 5px;
+    margin-bottom: 12px;
+ }
+   .media_hr {
+    width: 282px;
+}
+   /*twitter end*/
+      /*did start*/
+.did{
+    padding: 50px 0;
+ 
+}
+.did_h1{
+  font-size: 30px;
+}
+.did_main{
+    margin-top: 30px;
+}
+.did_contents{}
+.did_contents h1{
+    font-size: 25px;
+
+}
+.did_contents img{}
+.did_contents p{
+    font-size: 18px;
+   
+}
+/*did end*/
+/*timeline start*/
+.c_h1 {
+    font-size: 25px;
+}
+.c_hr {
+    width: 194px;
+}
+.time_h3 {
+    font-size: 18px;
+}
+time_text a {
+    font-size: 14px;
+}
+.time_text p, .recent_content p, .time_h5 {
+    font-size: 13px;
+}
+.register_hr {
+    width: 88px;
+}
+.recent_hr {
+    width: 220px;
+}
+
+/*timeline end*/
+.news_main, .insta {
+    margin-top: 300px;
+}
+.contact, .letter {
+    margin-top: 50px;
+}
+/*newsletter end*/
+/*footer start */
+.menu2{
+    float: left !important;
+}
+.menu1_item {
+    font-size: 14px;
+}
+.menu2_h1 {
+    font-size: 12px;
+}
+
+/*footer end*/
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header start*/
+    .menu ul li a{
+        text-align: right;
+        font-size: 15px;
+        padding: 0px 7px !important;
+    }
+    .menu ul li a:hover{
+    margin-left: 600px;
+    }
+    .dropdown-menu{
+        left: 487px;
+    }
+    .btn-custom{
+        margin-left: 597px;
+    }
+    .search_dd{
+        left: 435px;
+    }
+    /*header end*/
+    /*banner start*/
+   .b_content h1 {
+    font-size: 36px;
+    padding-top: 140px;
+    padding-bottom: 150px;
+}
+    /*banner end*/
+     /*kid1 start*/
+     .k_text a img{
+         width: 150px;
+     }
+     .k_img{
+       margin-top: 30px;
+   }
+   /*kid1 end*/
+   /*kid2 start*/
+  
+   .circle_text p{
+    font-size: 20px;
+}
+   /*kid2 end*/
+   /*courses start*/
+.card{
+    margin-top: 20px;
+}
+/*courses end*/
+   /*moments start*/
+   .moments{
+       padding: 80px 0;
+   }
+   .moments_pic{
+        margin-top: 60px;
+}
+.view{
+    margin-top: 50px;
+}
+.view img{
+    width: 162px;
+}
+   /*moments end*/
+  
+ /*twitter start*/
+ .twitter {
+    padding: 80px 0px;
+}
+ .media{
+     margin-top: 5px;
+    margin-bottom: 12px;
+ }
+   .media_hr {
+    width: 430px;
+}
+   /*twitter end*/
+    /*did start*/
+.did{
+    padding: 70px 0;
+}
+.did_main{
+    margin-top: 30px;
+}
+.did_contents h1{
+    font-size: 40px;
+
+}
+.did_contents p{
+    font-size: 18px;
+   
+}
+/*did end*/
+/*timeline start*/
+.c_h1 {
+    font-size: 28px;
+}
+.time_h3 {
+    font-size: 20px;
+}
+time_text a {
+    font-size: 14px;
+}
+.time_text p, .recent_content p, .time_h5 {
+    font-size: 13px;
+}
+.register_hr {
+    width: 92px;
+}
+.recent_hr {
+    width: 225px;
+}
+/*timeline end*/
+/*newsletter start*/
+.news_main, .insta {
+    margin-top: 287px;
+}
+.contact, .letter {
+    margin-top: 64px;
+}
+/*newsletter end*/
+/*footer start*/
+.menu1_item {
+    font-size: 14px;
+}
+.menu2_h1 {
+    font-size: 12px;
+}
+
+/*footer end*/
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+   .b_content h1 {
+    font-size: 40px;
+    padding-top: 260px;
+    padding-bottom: 150px;
+}
+    /*kid1 start*/
+   
+   .k_text a img{
+         width: 180px;
+     }
+   .k_img{
+       margin-top: 30px;
+   }
+   /*kid1 end*/
+   /*kid2 start*/
+   .circle_text {
+    font-size: 20px;
+    margin-left: 38px;
+}
+.circle{
+    margin-top: 15px;
+       margin-left: 71px;
+   }
+   /*kid2 end*/
+   /*twitter start*/
+   .media_hr {
+    width: 211px;
+}
+   /*twitter end*/
+   /*newsletter start*/
+   .news_h5{
+       font-size: 11px;
+   }
+   .text_form {
+    width: 244px;
+   }
+   .form_btn {
+    left: 212px;
+   }
+   /*newsletter wnd*/
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+     /*kid2 start*/
+   .circle_text {
+    margin-left: 80px;
+}
+.circle{
+    margin-top: 31px;
+    margin-left: 120px;
+   }
+   /*kid2 end*/
+}
