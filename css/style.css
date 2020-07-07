@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;;
 }
 .container{
     margin-bottom: 100px;
@@ -26,3 +27,54 @@ body{
     cursor: pointer;
 }
 /*** Slider section end ***/
+/*** Categories section start ***/
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 40%;
+}
+/*** Categories section end ***/
+/*** Shoes section start ***/
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h3{
+    font-weight: 700;
+}
+/*** Shoes section end ***/
+/*** Backpack section start ***/
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+/*** Backpack section end ***/
+/*** Subscribe section start ***/
+#contact{
+    background-color: #fceae8;
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+/*** Subscribe section end ***/
+/*** footer section start ***/
+footer{
+    text-align: center;
+}
+/*** footer section end ***/
